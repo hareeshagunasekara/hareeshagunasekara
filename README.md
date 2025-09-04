@@ -80,7 +80,7 @@ I am a BSc (Hons) Information Technology undergraduate at SLIIT, Sri Lanka, spec
 
 - **BSc (Hons) in Information Technology (Specializing in Software Engineering)**  
   Sri Lanka Institute of Information Technology (SLIIT)  
-  *(2022 – Present)*
+  *(2023 – Present)*
 
 ---
 
