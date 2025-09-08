@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Email-hareeshanavodi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/hareeshagunasekara" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/hareeshag/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-hareeshagunasekara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
