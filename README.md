@@ -1,8 +1,29 @@
-<!-- Profile README for Hareesha Gunasekara -->
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6D6D6D&center=true&vCenter=true&width=650&lines=Hareesha+Gunasekara;Software+Engineering+Undergraduate;Full-Stack+Developer" alt="Typing SVG" />
 </p>
+
+<div align="center">
+<!-- Contact / Social Links Section: visually highlighted and colorful -->
+
+<div align="center">
+
+  <a href="mailto:hareeshagunasekara@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-hareeshanavodi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/hareeshagunasekara" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-hareeshagunasekara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/hareeshagunasekara" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-hareeshagunasekara-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/whyami_haree?igsh=MWZ6MHZpamtrYWJyOQ%3D%3D&utm_source=qr" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-whyami__haree-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+</div>
 
 ---
 
@@ -81,15 +102,6 @@ I am a BSc (Hons) Information Technology undergraduate at SLIIT, Sri Lanka, spec
 - **BSc (Hons) in Information Technology (Specializing in Software Engineering)**  
   Sri Lanka Institute of Information Technology (SLIIT)  
   *(2023 – Present)*
-
----
-
-## 📞 Contact / Social Links
-
-[![Email](https://img.shields.io/badge/Email-hareeshanavodi@gmail.com-grey?logo=gmail)](mailto:hareeshagunasekara@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hareeshagunasekara-blue?logo=linkedin)](https://www.linkedin.com/in/hareeshagunasekara)
-[![GitHub](https://img.shields.io/badge/GitHub-hareeshagunasekara-black?logo=github)](https://github.com/hareeshagunasekara)
-[![Instagram](https://img.shields.io/badge/Instagram-whyami__haree-grey?logo=instagram)](https://www.instagram.com/whyami_haree?igsh=MWZ6MHZpamtrYWJyOQ%3D%3D&utm_source=qr)
 
 ---
 
