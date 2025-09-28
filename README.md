@@ -31,6 +31,7 @@
 
 I am a BSc (Hons) Information Technology undergraduate at SLIIT, Sri Lanka, specializing in Software Engineering. Passionate about crafting impactful, scalable digital solutions, I embrace clean code, teamwork, and continuous learning. My experience spans building mental health platforms, business management suites, and academic tools—always with a focus on real-world impact.
 
+🌱 I’m currently learning **Java Spring Boot** and **React Native** to expand my backend and mobile development skills.  
 ---
 
 ## 🛠️ Skills & Technologies
