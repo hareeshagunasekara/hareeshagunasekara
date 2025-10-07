@@ -80,16 +80,6 @@
 | <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&perline=3" width="150" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,python,php,kotlin&perline=4" width="200" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=3" width="150" /> | <img src="https://skillicons.dev/icons?i=git,androidstudio,r,vscode&theme=light&perline=4" width="180" /> |
 
 ---
-
-### 🧠 Core Strengths
-
-- 💻 **Full-Stack Development:** Building responsive web applications from frontend to backend with a focus on clean structure and scalability.  
-- ⚙️ **Software Engineering Principles:** Strong understanding of OOP, MVC design, and reusable, maintainable code practices.  
-- 🧩 **Team Collaboration:** Experienced in Agile workflows, Git version control, and collaborative development environments.  
-- 📊 **Data Management:** Skilled in designing and handling SQL & NoSQL databases for efficient data storage and retrieval.  
-- 🎨 **UI/UX Focus:** Implementing intuitive interfaces using Tailwind CSS, Bootstrap, and modern responsive design techniques.  
-
----
 ## 🌟 Featured Projects
 
 <table align="center" width="100%">
