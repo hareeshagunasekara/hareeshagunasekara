@@ -12,12 +12,10 @@
     </td>
     <td align="left" valign="middle">
       <p>
-        I'm a <b>BSc (Hons) in Information Technology</b> undergraduate at <b>SLIIT, Sri Lanka</b>, specializing in <b>Software Engineering</b>.<br><br>
-        Driven by innovation and precision, I build <b>scalable, impactful digital solutions</b> that bridge creativity with clean architecture and performance.<br><br>
-        💡 Passionate about full-stack development, I’ve engineered platforms ranging from  
-        <b>mental health ecosystems</b> to <b>business management dashboards</b> and <b>academic productivity tools</b> —  
-        all focused on <b>real-world usability</b> and <b>social impact</b>.
-      </p>
+    Hey 👋 I’m a <b>third-year BSc (Hons) in Information Technology</b> student at <b>SLIIT, Sri Lanka</b>, specializing in <b>Software Engineering</b>.<br><br>
+    Fueled by curiosity (and caffeine ☕), I love building <b>scalable, creative, and high-performing digital experiences</b> that actually make a difference.<br><br>
+    💡 A <b>full-stack enthusiast</b> at heart — I love turning ideas into <b>smooth, scalable, and user-focused experiences</b>, blending <b>clean architecture</b> with a sprinkle of <b>aesthetic chaos</b> 💻✨
+  </p>
     </td>
   </tr>
 </table>
@@ -26,7 +24,7 @@
   <tr>
 <!-- 🌐 Connect With Me -->
 <td width="33.3%" valign="top" align="center" style="padding:30px 25px;">
-  <h3>📬 Connect With Me</h3>
+  <h3>🙋🏻‍♀️ Connect With Me</h3>
   <p><i>Let’s build, collaborate, and create something extraordinary.</i></p>
 
   <p align="center">
@@ -154,25 +152,17 @@
 </table>
 
 ---
-
-## 🎓 Education
-
-- **BSc (Hons) in Information Technology (Specializing in Software Engineering)**  
-  Sri Lanka Institute of Information Technology (SLIIT)  
-  *(2023 – Present)*
-
----
 ## 💬 Quote
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="300" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="300" alt="Coding GIF">
+    <td align="center" width="400" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400" alt="Coding GIF">
     </td>
-    <td align="left" valign="middle">
-      <blockquote>
-        <b>	“Clean code always looks like it was written by someone who cares.”</b><br>
-        <sub>– Robert C. Martin (Uncle Bob)</sub>
+    <td align="left" valign="middle" style="padding-left: 30px;">
+      <blockquote style="font-size: 1.4rem; line-height: 1.6; color: #ffffff;">
+        <b>“Clean code always looks like it was written by someone who cares.”</b><br><br>
+        <sub style="font-size: 1.1rem; color: #9bd5c0;">– Robert C. Martin (Uncle Bob)</sub>
       </blockquote>
     </td>
   </tr>
