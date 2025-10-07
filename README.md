@@ -22,58 +22,55 @@
   </tr>
 </table>
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="table-layout:fixed; border-collapse:collapse;">
   <tr>
-    <td width="50%" valign="top" align="center">
+<!-- 🌐 Connect With Me -->
+<td width="33.3%" valign="top" align="center" style="padding:30px 25px;">
+  <h3>📬 Connect With Me</h3>
+  <p><i>Let’s build, collaborate, and create something extraordinary.</i></p>
+
+  <p align="center">
+    <!-- GitHub + LinkedIn -->
+    <a href="https://github.com/hareeshagunasekara" target="_blank">
+      <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Follow Me on GitHub" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/hareeshag/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <br>
+    <!-- Email + Instagram -->
+    <a href="mailto:hareeshanavodi@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/whyami_haree" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
+
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Open_to_Collaborations-3ED0AE?style=for-the-badge&logo=handshake&logoColor=white" alt="Collab Badge" />
+  </p>
+</td>
+    <!-- I Believe In -->
+    <td width="33.3%" valign="top" align="left" style="padding:30px 40px; vertical-align:top;">
       <h3>🎯 I Believe In</h3>
-      🧠 <b>Designing with intent.</b><br>
-      Building software that’s not just functional but meaningful and user-centric.<br><br>
-      🧩 <b>Writing clean, scalable, and maintainable code.</b><br>
-      I value readability, reusability, and long-term performance.<br><br>
-      🤝 <b>Collaborating across disciplines.</b><br>
-      Thriving in agile teams where communication sparks innovation..<br><br>
-      🚀 <b>Staying curious and future-ready.</b><br>
-      Constantly exploring new tech and refining my craft.<br><br>
+      🧠 <b>Designing with purpose</b> — software should be functional and meaningful.<br><br>
+      🧩 <b>Writing clean, scalable code</b> built for clarity and reuse.<br><br>
+      🤝 <b>Collaborating with intent</b> — teamwork fuels innovation.<br><br>
+      🚀 <b>Staying curious</b> — always learning, adapting, and improving.<br><br>
     </td>
-    <td width="50%" valign="top" align="center">
+    <!-- Currently Learning -->
+    <td width="33.3%" valign="top" align="center" style="padding:30px 40px; vertical-align:top;">
       <h3>🌱 Currently Learning</h3>
-      ⚙️ <b>Java Spring Boot</b><br>
-      Deep-diving into enterprise-level backend development, microservices, and secure RESTful APIs.<br><br>
-      📱 <b>React Native</b><br>
-      Crafting seamless cross-platform mobile experiences that merge native performance with modern UI design.<br><br>
-       <!-- icons -->
-       <img src="https://skillicons.dev/icons?i=java,spring,react" width="150" alt="Java Spring Boot and React Native Icons">
+      ⚙️ <b>Java Spring Boot</b> — building robust, secure backend APIs.<br><br>
+      📱 <b>React Native</b> — crafting seamless cross-platform mobile apps.<br><br>
+      <img src="https://skillicons.dev/icons?i=java,spring,react" width="180" alt="Tech Icons">
     </td>
   </tr>
 </table>
-
-<h2 align="center">📬 Connect With Me</h2>
-
-<p align="center">
-  <i>Let’s build, collaborate, and create something extraordinary together.</i>
-</p>
-
-<p align="center">
-  <a href="mailto:hareeshanavodi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hareeshag/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/hareeshagunasekara" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23222222.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/whyami_haree" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Collaborations-3ED0AE?style=for-the-badge&logo=handshake&logoColor=white" alt="Collab Badge"/>
-</p>
 
 ---
 
