@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6D6D6D&center=true&vCenter=true&width=650&lines=Hareesha+Gunasekara;Software+Engineering+Undergraduate;Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
----
+
 ## 🚀 About Me
 
 <table align="center" width="100%">
@@ -70,7 +70,7 @@
   </tr>
 </table>
 
----
+
 
 ## 🛠️ Skills & Technologies
 
@@ -79,7 +79,6 @@
 | React, Tailwind, Bootstrap | Node.js, Express, Django, Spring Boot | MongoDB, MySQL, PostgreSQL | Git, Android Studio, RStudio, VS Code |
 | <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&perline=3" width="150" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,python,php,kotlin&perline=4" width="200" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=3" width="150" /> | <img src="https://skillicons.dev/icons?i=git,androidstudio,r,vscode&theme=light&perline=4" width="180" /> |
 
----
 ## 🌟 Featured Projects
 
 <table align="center" width="100%">
@@ -112,7 +111,7 @@
   <i>✨ For more, explore my repositories on <a href="https://github.com/hareeshagunasekara?tab=repositories">GitHub</a>.</i>
 </p>
 
----
+
 
 ## 📈 GitHub Insights
 
@@ -141,7 +140,7 @@
   </tr>
 </table>
 
----
+
 ## 💬 Quote
 
 <table align="center" width="100%">
