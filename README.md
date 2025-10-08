@@ -14,7 +14,7 @@
       <p>
     Hey 👋 I’m a <b>third-year BSc (Hons) in Information Technology</b> student at <b>SLIIT, Sri Lanka</b>, specializing in <b>Software Engineering</b>.<br><br>
     Fueled by curiosity (and caffeine ☕), I love building <b>scalable, creative, and high-performing digital experiences</b> that actually make a difference.<br><br>
-    💡 A <b>full-stack enthusiast</b> at heart — I love turning ideas into <b>smooth, scalable, and user-focused experiences</b>, blending <b>clean architecture</b> with a sprinkle of <b>aesthetic chaos</b> 💻✨
+    💡 A <b>full-stack enthusiast</b> at heart,  I love turning ideas into <b>smooth, scalable, and user-focused experiences</b>, blending <b>clean architecture</b> with a sprinkle of <b>aesthetic chaos</b> 💻✨
   </p>
     </td>
   </tr>
@@ -55,16 +55,16 @@
     <!-- I Believe In -->
     <td width="33.3%" valign="top" align="left" style="padding:30px 40px; vertical-align:top;">
       <h3>🎯 I Believe In</h3>
-      🧠 <b>Designing with purpose</b> — software should be functional and meaningful.<br><br>
-      🧩 <b>Writing clean, scalable code</b> built for clarity and reuse.<br><br>
-      🤝 <b>Collaborating with intent</b> — teamwork fuels innovation.<br><br>
-      🚀 <b>Staying curious</b> — always learning, adapting, and improving.<br><br>
+      🧠 <b>Designing with purpose</b>, software should be functional and meaningful.<br><br>
+      🧩 <b>Writing clean, scalable code</b>, built for clarity and reuse.<br><br>
+      🤝 <b>Collaborating with intent</b>, teamwork fuels innovation.<br><br>
+      🚀 <b>Staying curious</b>, always learning, adapting, and improving.<br><br>
     </td>
     <!-- Currently Learning -->
     <td width="33.3%" valign="top" align="center" style="padding:30px 40px; vertical-align:top;">
       <h3>🌱 Currently Learning</h3>
-      ⚙️ <b>Java Spring Boot</b> — building robust, secure backend APIs.<br><br>
-      📱 <b>React Native</b> — crafting seamless cross-platform mobile apps.<br><br>
+      ⚙️ <b>Java Spring Boot</b>, building robust, secure backend APIs.<br><br>
+      📱 <b>React Native</b>, crafting seamless cross-platform mobile apps.<br><br>
       <img src="https://skillicons.dev/icons?i=java,spring,react" width="180" alt="Tech Icons">
     </td>
   </tr>
